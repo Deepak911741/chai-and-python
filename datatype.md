@@ -1,6 +1,3 @@
-# chai-and-python
-Learning Python
-
 # Object types / data Types
 
     - Number : 1234, 3.152, 3+4j, 0b111, Decimal(), Function()
