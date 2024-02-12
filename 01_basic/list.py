@@ -1,3 +1,5 @@
+# []-> eske ander jitan ve kuch liknge o hamra list hai
+
 chai = ["Green", "white", "Black", "Cofy"]
 print(chai)
 print(chai[0])
