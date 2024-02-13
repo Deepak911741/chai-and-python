@@ -21,5 +21,17 @@ for key, value in chai_types.items():
     
     
     
+sqafreed_num = {x:x**2 for x in range(6)}
+print(sqafreed_num)
+ 
+ 
+print(sqafreed_num.clear)
+
+keys = ["Masala", "Ginger", "Lemon"]
+print(keys)
 
 
+defalut_value = "Delicious"
+new_dict = dic.fromkeys(keys, defalut_value)
+
+print(new_dict)
