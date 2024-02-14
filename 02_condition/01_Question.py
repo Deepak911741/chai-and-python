@@ -10,4 +10,5 @@ elif age < 19:
     print("Teenager")
 elif age < 60:
     print("Adult")
-else("Senior")
+else:
+    print("Senior")
